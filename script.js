@@ -30,9 +30,3 @@ else{
     document.getElementById('resultado').innerHTML = 'Seu IMC é: ' + imc.toFixed(2) + ' - ' + status;
 }
 
-
-        //default:
-        //    resultado = 'Operação inválida!';
-//}   
-    //document.getElementById('resultado').innerHTML = resultado;
-//}
